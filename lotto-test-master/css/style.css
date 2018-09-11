@@ -1,7 +1,7 @@
 button {
   border: none;
   padding: 0.5em 1em;
-  background-color: #00a54d;
+  background-color: #666;
   color: #fff;
   cursor: pointer;
 }
@@ -13,7 +13,7 @@ span {
   display: block;
   padding: 0.5em;
   margin: 0.1em;
-  background-color: #b85a39;
+  background-color: #917;
   color: #fff;
   width: 1em;
   text-align: center;
