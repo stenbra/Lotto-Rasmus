@@ -12,6 +12,7 @@ function lottoRad() {
 
 			if(arra[i]==arra[l]){
 				arra[i]= Math.floor(Math.random() * 38)+1;
+				l=i;
 			}
 			
 		}
